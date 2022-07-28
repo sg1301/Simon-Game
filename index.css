@@ -1,0 +1,44 @@
+.green{
+    background-color: green;
+    width: 18vw;
+    height: 40vh;
+    border-radius: 15px;
+    border-width: 10px;
+    border-color: black ;
+    margin: 10px;
+}
+.blue{
+    background-color: blue;
+    width: 18vw;
+    height: 40vh;
+    border-radius: 15px;
+    border-width: 10px;
+    border-color: black ;
+    margin: 10px;
+}
+.red{
+    background-color: red;
+    width: 18vw;
+    height:40vh;
+    border-radius: 15px;
+    border-width: 10px;
+    border-color: black;
+    margin: 10px;
+}
+.yellow{
+   background-color: yellow;
+   width: 18vw;
+   height: 40vh;
+   border-radius: 15px;
+   border-width: 10px;
+   border-color: black ;
+   margin: 10px;
+}
+.main{
+    text-align: center;
+    background-color: cadetblue;
+}
+.pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
